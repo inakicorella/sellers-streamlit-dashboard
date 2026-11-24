@@ -2,6 +2,8 @@
 
 Individual activity: a simple Streamlit app for `sellers.xlsx` (52 sellers in the NORTE, SUR, ESTE and OESTE regions).
 
+**Live app:** https://sellers-streamlit-dashboard-neon.vercel.app (hosted on Vercel as a container, see `Dockerfile`)
+
 What it shows:
 - A table of sellers filtered by region, with a CSV download
 - Charts of units sold, total sales and sales average

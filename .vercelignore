@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.DS_Store
+Sellers_Dashboard_Screenshots.pdf
+README.md
+.env.local
+.vercel/
